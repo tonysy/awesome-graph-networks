@@ -3,6 +3,13 @@
 
 Materials for Graph Models and Graph Networks
 ## 1. Probabilistic Graph Models
+- [(Stanford)CS 228: Probabilistic Graphical Models](https://cs.stanford.edu/~ermon/cs228/index.html)
+    - [[Slides]](https://ermongroup.github.io/cs228-notes/)
+    - [[Videos]](https://www.youtube.com/playlist?list=PLBAGcD3siRDjiQ5VZQ8t0C7jkHQ8fhuq8)
+
+- [(CMU)Probabilistic Graphical Models](http://www.cs.cmu.edu/~epxing/Class/10708/lecture.html)
+    - Slides are in course homepage
+    - [[Videos]](https://www.youtube.com/playlist?list=PLI3nIOD-p5aoXrOzTd1P6CcLavu9rNtC-)
 ## 2. Graph Neural Networks
 ### (1) Blogs
 - [GRAPH CONVOLUTIONAL NETWORKS](http://tkipf.github.io/graph-convolutional-networks/)
