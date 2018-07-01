@@ -6,6 +6,8 @@ Materials for Graph Models and Graph Networks
 - [(Stanford)CS 228: Probabilistic Graphical Models](https://cs.stanford.edu/~ermon/cs228/index.html)
     - [[Slides]](https://ermongroup.github.io/cs228-notes/)
     - [[Videos]](https://www.youtube.com/playlist?list=PLBAGcD3siRDjiQ5VZQ8t0C7jkHQ8fhuq8)
+- [(Coursera)Probabilistic Graphical Models](https://www.coursera.org/learn/probabilistic-graphical-models/)
+    - [[Slides]](./Course/coursera_probabilistic_graphical_models/slides)
 
 - [(CMU)Probabilistic Graphical Models](http://www.cs.cmu.edu/~epxing/Class/10708/lecture.html)
     - Slides are in course homepage
