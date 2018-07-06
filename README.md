@@ -24,3 +24,9 @@ A good blog to introduce graph covolutional network
 
 - [Graph Attention Networks (ICLR 2018)](https://arxiv.org/pdf/1710.10903.pdf)
 - [Few-shot Learning with Graph Neural Networks (ICLR 2018)](https://arxiv.org/pdf/1711.04043.pdf)
+
+## 3. Comments
+### (1) Spectral Approach
+Which works with a spectral representations of the graph and have been successfully applied in the context of node classification.
+### (2) Non-spectral Approach
+Which define convolutions directly on the graph, operating on groups of spatially close neighbors.
