@@ -21,3 +21,6 @@ A good blog to introduce graph covolutional network
 - [Relational inductive biases, deep learning, and graph networks(recommend to read first)](https://arxiv.org/pdf/1806.01261.pdf) 
 - [Semi-Supervised Classification with Graph Convolutional Networks(ICLR 2017)](http://arxiv.org/abs/1609.02907)
 - [Convolutional Neural Networks on Graphs with Fast Localized Spectral Filtering (NIPS 2016)](https://arxiv.org/abs/1606.09375)
+
+- [Graph Attention Networks (ICLR 2018)](https://arxiv.org/pdf/1710.10903.pdf)
+- [Few-shot Learning with Graph Neural Networks (ICLR 2018)](https://arxiv.org/pdf/1711.04043.pdf)
